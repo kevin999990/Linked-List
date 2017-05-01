@@ -1,5 +1,5 @@
 #pragma once
-#inlude "Node.h"
+#include "Node.h"
 using namespace std;
 
 template <class T>
